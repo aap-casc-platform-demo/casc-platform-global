@@ -1,0 +1,4 @@
+---
+aap_organizations:
+  - name: "demo_alpha"
+    description: "Alpha DevOps automation organization"
